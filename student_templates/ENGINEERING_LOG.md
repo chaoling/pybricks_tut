@@ -1,3 +1,8 @@
+---
+layout: page
+title: Engineering Log
+---
+
 # Engineering Log
 
 Team: ____________________  Week: ______  Date: __________  Version: __________

@@ -1,0 +1,18 @@
+title: FLL Pybricks Virtual Robotics
+description: A simulator-first 12-week course for mastering FLL-level autonomous robot programming.
+url: https://chaoling.github.io
+baseurl: /pybricks_tut
+repository: chaoling/pybricks_tut
+theme: minima
+markdown: kramdown
+show_excerpts: false
+
+header_pages:
+  - course/CURRICULUM.md
+  - course/GEARS_SETUP.md
+  - course/INSTRUCTOR_GUIDE.md
+  - course/ASSESSMENT.md
+
+exclude:
+  - .git
+  - .github

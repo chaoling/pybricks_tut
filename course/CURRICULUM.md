@@ -1,3 +1,8 @@
+---
+layout: page
+title: 12-Week Curriculum
+---
+
 # 12-Week FLL Pybricks Virtual Robotics Curriculum
 
 ## Course at a glance

@@ -2,6 +2,8 @@
 
 This repository contains a complete, simulator-first course for students to build FLL-level autonomous robot programming skills with Python. It uses the [Gears simulator](https://gears.aposteriori.com.sg/), the current [Pybricks robotics documentation](https://docs.pybricks.com/en/latest/robotics.html), and the mission-oriented structure of [fssfll/spike_basecode](https://github.com/fssfll/spike_basecode).
 
+Published course website: <https://chaoling.github.io/pybricks_tut/>
+
 The course is designed for grades 6–9, but it works for older beginners. The default schedule is two 90-minute meetings per week for 12 weeks (36 contact hours). A one-meeting-per-week version can combine the two sessions and assign the engineering-log work between meetings.
 
 ## Course outcomes

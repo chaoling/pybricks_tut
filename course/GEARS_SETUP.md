@@ -1,3 +1,8 @@
+---
+layout: page
+title: Gears Setup and Compatibility
+---
+
 # Gears Setup and Pybricks Compatibility
 
 ## 1. Open the simulator

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Mission Design Sheet
+---
+
 # FLL-Style Mission Design Sheet
 
 Team: ____________________  Mission: ____________________  Version: __________

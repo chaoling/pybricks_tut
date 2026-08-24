@@ -1,3 +1,8 @@
+---
+layout: page
+title: Assessment and Rubrics
+---
+
 # Assessment and Rubrics
 
 ## Weighting
