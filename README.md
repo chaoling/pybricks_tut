@@ -27,6 +27,7 @@ By the end, students can:
 4. Copy or zip the files in [starter_code/gears](starter_code/gears/) for student teams.
 5. Score the capstone with [Assessment and Rubrics](course/ASSESSMENT.md).
 6. Print or copy the [Engineering Log](student_templates/ENGINEERING_LOG.md) and [Mission Design Sheet](student_templates/MISSION_DESIGN.md).
+7. For a physical robot, follow the [SPIKE Prime VS Code Setup Guide](hardware/Pybricks_SPIKE_Prime_VSCode_Setup_Guide.docx) and run the [base robot movement test](hardware/spike_prime_base_test.py).
 
 The repository's pre-existing [setup_prime.py](setup_prime.py) is preserved as a physical SPIKE Prime experimentation script. It is not used by the Gears lessons: it has hardware-specific ports and should be checked against the current Pybricks API before running on a robot.
 

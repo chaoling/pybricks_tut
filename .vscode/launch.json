@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run current file on Pybricks Hub",
+            "type": "node-terminal",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "command": "source .venv/bin/activate && python -m pybricksdev run ble \"${file}\""
+        }
+    ]
+}
