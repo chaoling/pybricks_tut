@@ -94,5 +94,5 @@ def mission_01(r):
 
 # Lower-case alias mirrors the class name used by the SPIYKE reference.
 if __name__ == "__main__":
-    r = Robot
+    r = Robot()
     mission_01(r)
